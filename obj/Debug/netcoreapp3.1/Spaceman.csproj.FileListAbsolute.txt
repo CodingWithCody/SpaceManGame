@@ -1,0 +1,13 @@
+C:\Users\Codyg\Downloads\csharp-spaceman-starting\bin\Debug\netcoreapp3.1\Spaceman.exe
+C:\Users\Codyg\Downloads\csharp-spaceman-starting\bin\Debug\netcoreapp3.1\Spaceman.deps.json
+C:\Users\Codyg\Downloads\csharp-spaceman-starting\bin\Debug\netcoreapp3.1\Spaceman.runtimeconfig.json
+C:\Users\Codyg\Downloads\csharp-spaceman-starting\bin\Debug\netcoreapp3.1\Spaceman.runtimeconfig.dev.json
+C:\Users\Codyg\Downloads\csharp-spaceman-starting\bin\Debug\netcoreapp3.1\Spaceman.dll
+C:\Users\Codyg\Downloads\csharp-spaceman-starting\bin\Debug\netcoreapp3.1\Spaceman.pdb
+C:\Users\Codyg\Downloads\csharp-spaceman-starting\obj\Debug\netcoreapp3.1\Spaceman.csprojAssemblyReference.cache
+C:\Users\Codyg\Downloads\csharp-spaceman-starting\obj\Debug\netcoreapp3.1\Spaceman.AssemblyInfoInputs.cache
+C:\Users\Codyg\Downloads\csharp-spaceman-starting\obj\Debug\netcoreapp3.1\Spaceman.AssemblyInfo.cs
+C:\Users\Codyg\Downloads\csharp-spaceman-starting\obj\Debug\netcoreapp3.1\Spaceman.csproj.CoreCompileInputs.cache
+C:\Users\Codyg\Downloads\csharp-spaceman-starting\obj\Debug\netcoreapp3.1\Spaceman.dll
+C:\Users\Codyg\Downloads\csharp-spaceman-starting\obj\Debug\netcoreapp3.1\Spaceman.pdb
+C:\Users\Codyg\Downloads\csharp-spaceman-starting\obj\Debug\netcoreapp3.1\Spaceman.genruntimeconfig.cache
